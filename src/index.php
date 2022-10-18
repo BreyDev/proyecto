@@ -1,4 +1,4 @@
-
+//nuevos cambios 
 <?php include 'cabecera.php'?>
 
     Este es la pagina de incio del sitio web

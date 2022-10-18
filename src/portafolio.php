@@ -36,7 +36,7 @@
     }
     $objConexion=new conexion();
     $proyectos=$objConexion->consultar("SELECT * FROM `proyectos`");
-   
+   //nuevos cambios 
     ?>
     <br/>
     <div class="container">

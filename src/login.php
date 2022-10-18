@@ -1,4 +1,4 @@
-<?php
+<?php //nuevos cambios 
 session_start();
 if($_POST){
 

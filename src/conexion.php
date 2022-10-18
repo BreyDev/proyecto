@@ -1,5 +1,5 @@
 <?php
-
+//nuevos cambios 
 class conexion{
 
         private $servidor="localhost";

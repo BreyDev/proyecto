@@ -5,7 +5,7 @@ if(isset($_SESSION['usuario'])!='root' ){
 
         header("location:login.php");
 }
-
+//nuevos cambios
 ?>
 
 
